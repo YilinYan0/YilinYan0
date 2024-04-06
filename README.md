@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @YilinYan0
-- 👀 I’m interested in combining technology and social science.
 - This GitHub is currently in maintenance, trying to make it better.
 
 <!---
